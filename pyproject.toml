@@ -15,7 +15,7 @@ dependencies = [
     "parallax",
     "pydantic>=2.11.10",
     "python-dotenv>=1.2.1",
-    "sgl-kernel>=0.3.17"
+    "sgl-kernel>=0.3.17",
     "uvicorn>=0.38.0",
 ]
 
